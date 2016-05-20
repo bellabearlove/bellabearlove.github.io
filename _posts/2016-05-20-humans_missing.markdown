@@ -8,3 +8,6 @@ header-img: "img/may16/20160520_152111.jpg"
 ---
 
 Bella finally found her one of her humans and convinced him to stay after days of being away in Austin for work. However, it happens that another one went missing at work again. Hopefully she will return soon so Bella doesn't have to worry anymore.
+
+Bella from another angle:
+![Hewo!](/img/may16/20160520_125447.jpg)
