@@ -1,15 +1,15 @@
 # Site settings
 title: Bella Love's Blog
 header-img: img/home-bg.jpg
-email:
+email: talktobella@corgi.way
 copyright_name: Bella's Humans
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "All things bearful"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username:
 github_username:
 facebook_username: bella.love.988373
-email_username:  your-email@yourdomain.com
+email_username: talktobella@corgi.way
 
 # Build settings
 markdown: kramdown
