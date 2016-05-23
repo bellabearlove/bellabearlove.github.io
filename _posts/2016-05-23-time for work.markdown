@@ -11,7 +11,7 @@ Why you so early human...
 ![angers](/img/may16/20160523_170332.jpg)
 
 These bird seeds smell good!
-![angers](/img/may16/20160523_170842.jpg)
+![angers](/img/may16/20160523_170842c.jpg)
 
 Hold on... i'm marking my territory
-![angers](/img/may16/20160523_170848.jpg)
+![angers](/img/may16/20160523_170848c.jpg)
