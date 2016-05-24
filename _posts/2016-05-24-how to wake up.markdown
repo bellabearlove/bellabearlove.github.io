@@ -7,4 +7,6 @@ author:     "Will"
 header-img: "img/may16/20160524_082359c.jpg"
 ---
 
-zzzzzzzzzz
+i like chiken
+
+![noms!](/img/may16/boomchickapop.jpg)
