@@ -4,7 +4,7 @@ title:      "it's been a while guys!"
 subtitle:   "can i cuteness overload you?"
 date:       2016-06-07 18:00:00
 author:     "Will"
-header-img: "img/may16/20160606_182132c.jpg"
+header-img: "img/june16/20160606_182132c.jpg"
 ---
 
 Hi humans! It's been ruff these last few days. so much happening to the humans in my life
