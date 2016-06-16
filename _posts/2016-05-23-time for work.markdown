@@ -10,7 +10,7 @@ header-img: "img/may16/20160523_081837.jpg"
 Why you so early human...
 ![angers](/img/may16/20160523_170332.jpg)
 
-These bird seeds smell good!
+Guess we can go outside now... these bird seeds smell good!
 ![angers](/img/may16/20160523_170842c.jpg)
 
 Hold on... i'm marking my territory

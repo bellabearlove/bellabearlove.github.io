@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "I was so grumpy last night"
-subtitle:   "...are those chips?"
+subtitle:   "...do i hear chips?"
 date:       2016-05-21 17:59:00
 author:     "Will & H"
 header-img: "img/may16/20160521_000323.jpg"

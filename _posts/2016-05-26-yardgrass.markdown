@@ -7,6 +7,6 @@ author:     "Will"
 header-img: "img/may16/20160526_083222c.jpg"
 ---
 
-Ouch! someone cut this grass before i nom it.. ugh
+It's too tall. someone cut this grass before i nom it.. ugh
 
 ![ouch!](/img/may16/20160526_083217c.jpg)
